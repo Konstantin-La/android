@@ -3,20 +3,14 @@
 <manifest>
  <!-- CM removals -->
  <remove-project name="CyanogenMod/android_bionic" />
- <remove-project name="CyanogenMod/android_build" />
  <remove-project name="CyanogenMod/android_external_skia" />
  <remove-project name="CyanogenMod/android_frameworks_av" />
- <remove-project name="CyanogenMod/android_frameworks_base" />
- <remove-project name="CyanogenMod/android_packages_apps_Settings" />
 <!--<remove-project name="CyanogenMod/android_packages_apps_Trebuchet" /> -->
 
 <!-- A500 JB4.4 -->
  <project path="bionic" name="loosethisskin/android_bionic" revision="cm-11.0-p4" />
- <project path="build" name="loosethisskin/android_build" revision="cm-11.0" />
  <project path="external/skia" name="loosethisskin/android_external_skia" revision="cm-11.0-p4" />
  <project path="frameworks/av" name="loosethisskin/android_frameworks_av" revision="cm-11.0-p4" />
- <project path="frameworks/base" name="loosethisskin/android_frameworks_base" revision="cm-11.0-sgt7" />
- <project path="packages/apps/Settings" name="loosethisskin/android_packages_apps_Settings" revision="cm-11.0-sgt7" />
  <!--<project path="packages/apps/Trebuchet" name="loosethisskin/android_packages_apps_Trebuchet" revision="cm-10.2-sgt7" /> -->
  <!--<project path="device/acer/a500" name="PlayOSS-Dev/android_device_acer_a500" revision="cm10.2" /> -->
  <!--<project path="vendor/acer/a500" name="PlayOSS-Dev/vendor_acer_a500" /> -->
