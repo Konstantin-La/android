@@ -15,8 +15,8 @@
   <project path="frameworks/base" name="loosethisskin/android_frameworks_base" revision="cm-10.2-sgt7" />
   <project path="packages/apps/Settings" name="loosethisskin/android_packages_apps_Settings" revision="cm-10.2-sgt7" />
   <project path="packages/apps/Trebuchet" name="loosethisskin/android_packages_apps_Trebuchet" revision="cm-10.2-sgt7" />
-  <project path="device/acer/a500" name="PlayOSS-Dev/android_device_acer_a500" revision="cm10.2" />
-  <project path="vendor/acer/a500" name="PlayOSS-Dev/vendor_acer_a500" />
-  <project path="kernel/acer/a500" name="PlayOSS-Dev/kernel_acer_a500" revision="jellybean4.3" />
+  <project path="device/lenovo/k1" name="Konstantin-La/android_device_ideapad_k1_wifi" revision="cm10" />
+  <project path="vendor/lenovo/k1" name="Konstantin-La/android_vendor_ideapad_k1" revision="cm10" />
+  <project path="kernel/lenovo/k1" name="Konstantin-La/android_kernel_ideapad_k1"  />
 
 </manifest>
